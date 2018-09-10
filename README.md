@@ -1,6 +1,6 @@
 # VS Code theme for iTerm2
 
-A color scheme for iTerm2 that matches the color scheme of Visual Studio Code's integrated terminal.
+A color scheme for iTerm2 that matches Visual Studio Code's default Dark+ theme.
 
 ![Screenshot](image.png)
 
