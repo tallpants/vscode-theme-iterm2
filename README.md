@@ -2,7 +2,7 @@
 
 A color scheme for iTerm2 that matches the color scheme of Visual Studio Code's integrated terminal.
 
-![Screenshot](screenshot.png)
+![Screenshot](image.png)
 
 ## Installing
 
