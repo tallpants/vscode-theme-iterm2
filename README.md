@@ -2,8 +2,9 @@
 
 A color scheme for iTerm2 that matches Visual Studio Code's default Dark+ and Light+ themes.
 
-![Screenshot Dark](image-dark.png)
-![Screenshot Light](image-light.png)
+| ![Screenshot Dark](image-dark.png) | ![Screenshot Light](image-light.png) |
+| --- | --- |
+
 
 ## Installing
 
